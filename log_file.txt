@@ -1,0 +1,14 @@
+2025-01-28 10:15:23,456 - INFO - Application started successfully.
+2025-01-28 10:15:25,789 - DEBUG - Initializing user session for user_id: 12345.
+2025-01-28 10:15:30,123 - WARNING - Disk space is running low. Available: 500MB.
+2025-01-28 10:15:35,234 - ERROR - Failed to connect to database. Retrying...
+2025-01-28 10:15:40,567 - DEBUG - Retrying database connection. Attempt: 2.
+2025-01-28 10:15:45,890 - INFO - Database connection established successfully.
+2025-01-28 10:16:00,234 - INFO - User "john_doe" logged in.
+2025-01-28 10:16:10,345 - DEBUG - Fetching data for report generation.
+2025-01-28 10:16:20,567 - WARNING - API response time is slow. Response time: 1200ms.
+2025-01-28 10:16:30,789 - ERROR - Unhandled exception in module "report_generator": IndexError: list index out of range.
+2025-01-28 10:16:35,890 - INFO - Application terminated gracefully.
+2025-01-28 10:16:30,789 - ERROR - Unhandled exception in module "report_generator": IndexError: list index out of range.
+2025-01-28 10:16:35,890 - ERROR - Application terminated gracefully.
+
